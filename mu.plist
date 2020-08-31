@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>	  
-					<string>http://privateloongcraft5.online/mu.ipa</string>
+					<string>http://privatelongwu.com/mu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://privateloongcraft5.online/unnamed.png</string>
+					<string>http://privatelongwu.com/unnamed.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://privateloongcraft5.online/unnamed.png</string>
+					<string>http://privatelongwu.com/unnamed.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
